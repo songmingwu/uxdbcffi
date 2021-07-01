@@ -1,0 +1,14 @@
+*.pyc
+*.egg-info
+MANIFEST
+.tox/
+.cache
+build/
+dist/
+__pycache__
+env
+*.swp
+tag*
+uxdbcffi/uxdbcffi/_cffi__*.so
+uxdbcffi/uxdbcffi/_config.py
+uxdbcffi/uxdbcffi/_impl/_libpq.so
